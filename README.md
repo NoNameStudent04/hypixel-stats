@@ -12,9 +12,9 @@
 1. 해당 파일을 내려받습니다.
 2. 압축이 되어있을시 압축을 풀어줍니다. (리눅스는 "unzip"으로 가능)
 3. 현재 기본적으로 제공된 하이픽셀 레벨 커맨드 파일(hypixel.py)를 열어 Key값을 본인의 API 값으로 바꿔준다음 Ctrl+S를 눌러 저장합니다.
-4. 오류가 없는지 Checking(?)을 하고 bot.py를 열어서 봇을 활성화 시킵니다.
+4. 마지막으로 bot.py를 열어 Discord bot Token을 넣은후 저장하여 봇을 실행시킵니다.
 
-=> 참 쉽죠?
++ 필수 라이브러리 : discord.py / asyncio / datetime / math
 ```
 
 # API Key
